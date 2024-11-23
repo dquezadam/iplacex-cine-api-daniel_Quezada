@@ -1,2 +1,2 @@
 # iplacex-cine-api-Daniel_Quezada
- API Rest Cine con Express
+ API REST Express para administración de películas favoritas de empleados de IPLACEX
